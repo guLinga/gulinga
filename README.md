@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a high school student
+- 📫 How to reach me: xsx1514@163.com
+
+### My GitHub Contributions
+![](https://raw.githubusercontent.com/gulinga/gulinga/main/assets/github-contribution-grid-snake.svg)
+
+### Stats
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gulinga&count_private=true&show_icons=true&hide_border=true" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulinga&count_private=true&hide=hack&layout=compact&hide_border=true" />
+    </td>   
+  </tr>
+</table>
