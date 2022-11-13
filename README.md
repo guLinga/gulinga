@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xsx1514@163.com
 
 ### My GitHub Contributions
-![](https://raw.githubusercontent.com/gulinga/gulinga/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/guLinga/guLinga/main/assets/github-contribution-grid-snake.svg)
 
 ### Stats
 
