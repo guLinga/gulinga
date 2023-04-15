@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a high school student
 - 📫 How to reach me: xsx1514@163.com
-- 💛 My blog：1514.work
+- 💛 My blog：[1514.work](https://1514.work/)
 
 ### My GitHub Contributions
 ![](https://raw.githubusercontent.com/guLinga/guLinga/main/assets/github-contribution-grid-snake.svg)
