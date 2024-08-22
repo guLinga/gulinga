@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xsx1514@163.com
 - 💛 My blog：[1514.work](https://1514.work/)
 
-<!-- ### My GitHub Contributions
-![](https://raw.githubusercontent.com/guLinga/guLinga/main/assets/github-contribution-grid-snake.svg) -->
+### My GitHub Contributions
+![](https://raw.githubusercontent.com/guLinga/guLinga/main/assets/github-contribution-grid-snake.svg)
 
 ### Stats
 
